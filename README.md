@@ -1,4 +1,6 @@
 # terraform-aws-transitgateway-route-table-route
+[![](https://github.com/khateeb15/terraform-aws-transitgateway-route-table-route/workflows/check/badge.svg)](https://github.com/khateeb15/terraform-aws-transitgateway-route-table-route/actions)
+
 This module provides a transit gateway route table static entry.
 
 Manage a [Transit Gateway Route Table](https://docs.aws.amazon.com/vpc/latest/tgw/tgw-route-tables.html) static route table entry.
